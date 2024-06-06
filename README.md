@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhneshkashyap" alt="shubhneshkashyap" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and DevOps**
+- 🌱 I’m currently learning **Flutter**
 
-- 🛠️I’m currently working on **Flutter and DevOps**
+- 🛠️I’m currently working on **Flutter**
 
 - 💬 Ask me about **Java and Cloud**
 
