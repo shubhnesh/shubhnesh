@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **Flutter apps backed by Azure & Firebase cloud infrastructure**
+- 🔭 Currently building **Flutter apps backed by AWS & Firebase cloud infrastructure**
 - 🌱 Deepening expertise in **Docker · Kubernetes · Terraform · GitHub Actions · Linux**
 - 💬 Talk to me about **Java, Spring Boot, Cloud Architecture, Azure & GCP**
 - 🤝 Looking to collaborate on **DevOps pipelines, open-source tools & cloud projects**
