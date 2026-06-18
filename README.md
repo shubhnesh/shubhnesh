@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech Arsenal
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
