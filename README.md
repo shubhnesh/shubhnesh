@@ -10,7 +10,7 @@
 
 <!-- Visitor + Profile Badges -->
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshubhneshkashyap">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fshubhneshkashyap"> 
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fshubhneshkashyap&label=PROFILE+VIEWS&labelColor=0d1117&countColor=00D4FF&style=flat" />
   </a>
   &nbsp;
