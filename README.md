@@ -87,7 +87,7 @@
 | 🐧 OS | Linux CLI & Shell Scripting | ✅ Done |
 | 🔄 Version Control | Git & GitHub | ✅ Done |
 | 🏗️ Backend | Java + Spring Boot | ✅ Done |
-| 🐳 Containers | Docker & Docker Compose | 🔄 In Progress |
+| 🐳 Containers | Docker & Docker Compose | ✅ Done |
 | ⚙️ CI/CD | GitHub Actions | 🔄 In Progress |
 | ☸️ Orchestration | Kubernetes (K8s) | 🔄 In Progress |
 | 📦 IaC | Terraform | ⬜ Next Up |
