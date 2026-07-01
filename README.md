@@ -88,6 +88,7 @@
 | 🔄 Version Control | Git & GitHub | ✅ Done |
 | 🏗️ Backend | Java + Spring Boot | ✅ Done |
 | 🐳 Containers | Docker & Docker Compose | ✅ Done |
+|  Networking | ✅ Done |
 | ⚙️ CI/CD | GitHub Actions | 🔄 In Progress |
 | ☸️ Orchestration | Kubernetes (K8s) | 🔄 In Progress |
 | 📦 IaC | Terraform | ⬜ Next Up |
