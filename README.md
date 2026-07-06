@@ -1,7 +1,7 @@
 <!-- Capsule Render Wave Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0078D4,100:00D4FF&height=200&section=header&text=Shubhnesh%20Kashyap&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7CFlutter%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<!-- Typing SVG --> 
+<!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=⚙️+Automating+infrastructure%2C+one+pipeline+at+a+time;☁️+Cloud-Native+%7C+CI%2FCD+%7C+Containerization;🚀+Building+scalable%2C+reliable+systems;🌱+Learning+K8s+%7C+Terraform+%7C+GitOps" alt="Typing SVG" />
 </div>
