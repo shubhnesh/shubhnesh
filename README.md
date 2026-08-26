@@ -89,7 +89,7 @@
 | 🏗️ Backend | Java + Spring Boot | ✅ Done |
 | 🐳 Containers | Docker & Docker Compose | ✅ Done |
 |  Networking | ✅ Done |
-| ⚙️ CI/CD | GitHub Actions | 🔄 In Progress |
+| ⚙️ CI/CD | GitHub Actions | ✅ Done |
 | ☸️ Orchestration | Kubernetes (K8s) | 🔄 In Progress |
 | 📦 IaC | Terraform | ⬜ Next Up |
 | 🔧 Config Mgmt | Ansible | ⬜ Planned |
