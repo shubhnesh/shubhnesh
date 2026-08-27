@@ -93,7 +93,7 @@
 | ☸️ Orchestration | Kubernetes (K8s) | 🔄 In Progress |
 | 📦 IaC | Terraform | ⬜ Next Up |
 | 🔧 Config Mgmt | Ansible | ⬜ Planned |
-| 📊 Monitoring | Prometheus + Grafana | ⬜ Planned |
+| 📊 Monitoring | Prometheus + Grafana | 🔄 In Progress |
 | 🚀 GitOps | ArgoCD | ⬜ Planned |
 | 🕸️ Service Mesh | Istio | ⬜ Planned |
 
