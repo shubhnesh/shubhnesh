@@ -75,7 +75,7 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
---- 
+---
 
 ## 🗺️ DevOps Roadmap & Progress
 
